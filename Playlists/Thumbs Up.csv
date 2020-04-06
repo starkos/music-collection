@@ -1,7 +1,6 @@
 Title,Album,Artist,Duration
 " Who Can It Be Now",Business As Usual,Men At Work,202462
 &quot;Cieco Cieco&quot; Barber,The Triplets of Belleville,Ben Charest,108134
-(Big) Wish,Run Lola Run,Franka Potente &amp; Thomas D,232804
 (Don&#39;t Fear) The Reaper,Agents of Fortune,Blue Öyster Cult,308451
 (I&#39;ll Love You) Till the End of the World,Until the End of the World,Nick Cave &amp; The Bad Seeds,276926
 (I&#39;ll Never Be) Your Maggie May,Songs In Red And Gray,Suzanne Vega,227237
@@ -17,6 +16,7 @@ Title,Album,Artist,Duration
 12/6/73,Chewing Lessons de España,Barefoot Gravediggers,195936
 15 to 20,The Phenomenal Handclap Band,The Phenomenal Handclap Band,288000
 19-2000 (Soulchild Remix),The Singles Collection 2001-2011,Gorillaz,209000
+1979,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,263575
 1999,1999,Prince,379268
 32 Footsteps,They Might Be Giants,They Might Be Giants,95946
 360° (Oh Yeah),Decksandrumsandrockandroll,Propellerheads,267805
@@ -26,7 +26,7 @@ Title,Album,Artist,Duration
 5-20,The Dino Soars,Stegosaurus Rex,243000
 52 Girls,The B-52&#39;s,The B-52&#39;s,214890
 52 Girls,The B-52&#39;s,The B-52&#39;s,216000
-867-5309 / Jenny,Tommy Tutone 2,Tommy Tutone,228020
+867-5309 / Jenny,2,Tommy Tutone,228020
 9-9,Murmur,R.E.M.,183508
 911 Is A Joke,Fear Of A Black Planet,Public Enemy,197301
 99 Luftballons,99 Luftballons,Nena,233010
@@ -38,12 +38,12 @@ A Good Idea At The Time,Oh No,Ok Go,193700
 A Higher Place,Wildflowers,Tom Petty,235144
 A Little Less Conversation (JXL Radio Edit Remix),Elv1s: 30 #1 Hits,Elvis Presley,213000
 A Little Respect,The Innocents,Erasure,213418
+A Million Ways,Oh No,Ok Go,192296
 A Night Like This,Staring At The Sea: The Singles,The Cure,256363
 A Place In My Heart,Social Distortion,Social Distortion,195002
 A Sermon,Message In A Box,The Police,152816
 A Wonderous Siege,Chewing Lessons de España,Barefoot Gravediggers,304252
 A cause des garçons,Pop Up,Yelle,226000
-A(flat) Traffic Jam,Big Wet Kiss,Chucklehead,281476
 A-Punk,Vampire Weekend,Vampire Weekend,136760
 ABC,The Definitive Collection,Jackson 5,177000
 ABC,The Ultimate Collection: Jackson 5,Jackson 5,177448
@@ -66,19 +66,19 @@ Ain&#39;t No Right,Ritual De Lo Habitual,Jane&#39;s Addiction,214567
 Air of December,Shooting Rubberbands at the Stars,Edie Brickell &amp; New Bohemians,359494
 Airbag,OK COMPUTER,Radiohead,284418
 Akuda House Propaganda,Beyond Good &amp; Evil,Christophe Heral,160966
-Alaska,Wholeness &amp; Separation,Halou,84344
 Alec Eiffel,Trompe Le Monde,Pixies,170316
 Alien,Fear of Fours,Lamb,245752
 All Blues,Kind Of Blue,Miles Davis,690664
 All In Forms,Black Sands,Bonobo,290446
 All In You (feat. Anna Kova),Convergence (Deluxe Edition),Synapson,257000
 All In Your Hands,Fear of Fours,Lamb,277940
+All Lifestyles,To The 5 Boroughs,Beastie Boys,152958
 All Mine,Portishead,Portishead,240637
 All Or Nothing At All,Ballads,John Coltrane Quartet,215168
 All Star,Astro Lounge,Smash Mouth,199212
 All That We Perceive,The Richest Man In Babylon,Thievery Corporation,226140
 All You Need Is Love,Magical Mystery Tour,The Beatles,227708
-Alma-Ville,Jazz Impressions Of Black Orpheus (Limited Edition),Vince Guaraldi Trio,298000
+Alma-Ville,Jazz Impressions Of Black Orpheus,Vince Guaraldi Trio,298000
 Aloha (feat. Merryn Jeann),Panorama,Møme,218000
 Alone + Easy Target,Foo Fighters,Foo Fighters,245679
 Alone again so,A Grand Love Story,Kid Loco,423000
@@ -92,6 +92,7 @@ Always Something There To Remind Me,Burning Bridges,Naked Eyes,218956
 Alzira E A Torre,Lenine,Lenine,206076
 American Ghost Dance,Freaky Styley,Red Hot Chili Peppers,230178
 An Announcement to Answer,An Announcement to Answer,Quantic,293000
+An Ode To No One,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,289666
 Ana Ng,Lincoln,They Might Be Giants,203023
 Ancient Chinese Secrets,Beyond Good &amp; Evil,Christophe Heral,179218
 And She Was,Little Creatures,Talking Heads,219000
@@ -124,6 +125,7 @@ Awadama Fever,METAL RESISTANCE,BABYMETAL,253000
 Away From Home,Kollected Works,Klark Kent,177112
 Awoo (feat. Betta Lemme),Soft Animals,Sofi Tukker,196000
 Ay Ay Ay,Lost &amp; Found,Dzihan &amp; Kamien,403026
+A♭ Traffic Jam,Big Wet Kiss,Chucklehead,281476
 B Line,Fear of Fours,Lamb,166790
 BALD,Hey Judy,Cowpokes,164632
 Babe I&#39;m Gonna Leave You,Led Zeppelin,Led Zeppelin,402778
@@ -169,7 +171,6 @@ Beercan,Mellow Gold,Beck,239304
 Before Or Since,Deadringer: Deluxe,RJD2,201000
 Before There Was Color,Wiser,Halou,266708
 Begin The Begin,Life&#39;s Rich Pageant,R.E.M.,208117
-Believe,Run Lola Run,Franka Potente,293358
 Believe,The Sun And The Moon,The Bravery,226000
 Belleville Rendez-Vous (French Version),The Triplets of Belleville,Ben Charest,189982
 Belleza,Loteria de la Cumbia Lounge,Charanga Cakewalk,273832
@@ -209,7 +210,6 @@ Blister In The Sun,Violent Femmes,Violent Femmes,144351
 Blitzkrieg Bop,Loud Fast,The Ramones,133120
 Blood Sugar Sex Magik,Blood Sugar Sex Magik,Red Hot Chili Peppers,269932
 Blow Your Mind,High Times: Singles 1992-2006,Jamiroquai,235047
-Blue Alert,Half The Perfect World,Madeleine Peyroux,250000
 Blue Blood Blues,Sea Of Cowards,The Dead Weather,202000
 Blue Casket Bop,Grim Fandango,Peter McConnell,69940
 Blue Eye Smile Girl,Sans Soucie,Halou,268164
@@ -220,9 +220,11 @@ Blue-Eyed Pop,Life&#39;s Too Good,Sugarcubes,156472
 Blueeyed Devil,Ruby Vroom,Soul Coughing,252314
 Bobo On The Corner (Alternate Mix),Ill Communication,Beastie Boys,73000
 Bobo On The Corner,Ill Communication,Beastie Boys,73273
+Bodies,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,252212
 Body Language,Hot Space,Queen,271644
 Bohemian Rhapsody,A Night At The Opera,Queen,353444
 Boll Weevil,The Presidents of The United States of America,The Presidents Of The United States Of America,197536
+Bombs Away,Zenyatta Mondatta,The Police,187897
 Bombtrack,Rage Against The Machine,Rage Against The Machine,243594
 Bone Machine,Surfer Rosa,Pixies,183353
 Bonfire,Fear of Fours,Lamb,263390
@@ -271,6 +273,7 @@ Buddy Holly,Weezer,Weezer,158678
 Build the Bridge,World Clique,Deee-Lite,271000
 Bullet In The Head,Rage Against The Machine,Rage Against The Machine,308282
 Bullet The Blue Sky,The Joshua Tree,U2,271566
+Bullet With Butterfly Wings,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,258481
 Buried At Sea (feat. Jesus),One Step Ahead Of The Spider,MC 900 Ft. Jesus,286000
 Burning Down the House,Speaking In Tongues,Talking Heads,241436
 Buscando (Karuan vs. Circus Remix (Digital Bonus Track)),Pop Arif,Madrid De  Los Austrias,355000
@@ -279,6 +282,7 @@ Bust A Move,Stone Cold Rhymin&#39;,Young MC,263677
 Buster Rides Again,Time Waits,Bud Powell,332982
 Busy Child,Vegas,The Crystal Method,445018
 Buzz Buzz Buzz,Lovely,The Primitives,121000
+By Starlight,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,286910
 Bye Bye Love,The Cars (Deluxe Edition),The Cars,255000
 Bye Bye Love,The Cars,The Cars,254197
 C&#39;Est La Vie,Hawaï,Java,253188
@@ -287,10 +291,12 @@ Cabin Down Below,Wildflowers,Tom Petty,170508
 Cactus,Surfer Rosa,Pixies,138630
 California Rain,Half The Perfect World,Madeleine Peyroux,177004
 Calistan,Teenager Of The Year,Frank Black,202551
+Call Me,American Gigolo,Blondie,212244
 Calm Like A Bomb,The Matrix Reloaded: The Album (U.S. 2 CD Set-Enh&#39;d-PA Version),Rage Against The Machine,298000
 Campus,Vampire Weekend,Vampire Weekend,174512
 Can&#39;t Be Sure,"Reading, Writing &amp; Arithmetic",The Sundays,202447
 Can&#39;t Get There From Here (Remastered),Fables Of The Reconstruction (Deluxe Edition),R.E.M.,219000
+Can&#39;t Get Used To Losing You,I Just Can&#39;t Stop It,The English Beat,185102
 Can&#39;t Run But,The Rhythm Of The Saints,Paul Simon,215826
 Can&#39;t Stand Losing You,Outlandos D&#39;Amour,The Police,178780
 Canary In A Coalmine,Zenyatta Mondatta,The Police,145886
@@ -300,11 +306,9 @@ Canned Heat,High Times: Singles 1992-2006,Jamiroquai,226218
 Cannonball,Last Splash,The Breeders,215612
 Cape Cod Kwassa Kwassa,Vampire Weekend,Vampire Weekend,213382
 Carnival,Life,Cardigans,216294
-Casino (Solid State Remix),Run Lola Run,Tommi Eckart,342680
 Casino Calavera,Grim Fandango,Peter McConnell,65962
-Casino,Run Lola Run,"Tykwer, Klimek &amp; Heil",430404
 Casiotone Nation,Ruby Vroom,Soul Coughing,230267
-Cast Your Fate To The Wind,Jazz Impressions Of Black Orpheus (Limited Edition),Vince Guaraldi Trio,188000
+Cast Your Fate To The Wind,Jazz Impressions Of Black Orpheus,Vince Guaraldi Trio,188000
 Cat Turned Blue,When I Woke,Rusted Root,223214
 Catapult,Murmur,R.E.M.,235805
 Catholic School Girls Rule,Freaky Styley,Red Hot Chili Peppers,115414
@@ -333,6 +337,7 @@ Cherry Tree Times,Katamari Fortissimo Damacy,Namco,374946
 Cherry Twist,Vegas,The Crystal Method,264628
 Cherub Rock,Siamese Dream,Smashing Pumpkins,298266
 Chihuahua,Hawaï,Java,192868
+China Girl,Let&#39;s Dance,David Bowie,332953
 Chispas,Loteria de la Cumbia Lounge,Charanga Cakewalk,213538
 Chloe Dancer - Crown Of Thorns,Singles,Mother Love Bone,500710
 Choke,First Band On The Moon,Cardigans,206574
@@ -343,6 +348,9 @@ Circuit Breaker,The Understanding,Röyksopp,324960
 Clampdown,London Calling,Clash,231140
 Clap Hands,Rain Dogs,Tom Waits,227942
 Classic Girl,Ritual De Lo Habitual,Jane&#39;s Addiction,307824
+Click Click,I Just Can&#39;t Stop It,The English Beat,87561
+Clone,Synthetica,Metric,313000
+Close To Me,Staring At The Sea: The Singles,The Cure,220549
 Close to the Borderline,Glass Houses,Billy Joel,226000
 Closer,Lamb,Lamb,235047
 Clouds,Stereotype A,Cibo Matto,207000
@@ -395,6 +403,7 @@ Crazy Train (2002 Version),The Essential Rock Sampler,Ozzy Osbourne,289000
 Crazy on You,Dreamboat Annie,Heart,293332
 Crucify,Little Earthquakes,Tori Amos,297908
 Cruel Youth,Beatitude,Pepe Deluxé,338728
+Crystalfilm,Ritual Union,Little Dragon,289000
 Cult of Personality,Vivid,Living Colour,294000
 Cumulus,Cumulus,Imogen Heap,284000
 Cutie Chaser,DDR Max Soundtrack,Club Spice,82914
@@ -501,6 +510,7 @@ Drawing Flies,Badmotorfinger,Soundgarden,146388
 Dreamwalk Baby,Lovely,The Primitives,121000
 Drinkee,Soft Animals,Sofi Tukker,299000
 Driven To Tears (Live),Message In A Box,The Police,209345
+Driven To Tears,Zenyatta Mondatta,The Police,200540
 Driver 8,Fables Of The Reconstruction,R.E.M.,202930
 Drivin&#39; on 9,Last Splash,The Breeders,201318
 Drown,Singles,Smashing Pumpkins,494286
@@ -558,7 +568,6 @@ Everybody Wants To Rule The World,Songs From The Big Chair,Tears for Fears,25150
 Everybody&#39;s Jumpin&#39;,Time Out,Dave Brubeck Quartet,261849
 Everyday Is A Holiday (With You),Wikked Lil&#39; Grrrls,Esthero,243568
 Everything (feat. Bajka),Berlin Serengeti,Radio Citizen,243000
-Everything Is Ok,Wholeness &amp; Separation,Halou,261846
 Everything Right Is Wrong Again,They Might Be Giants,They Might Be Giants,140000
 Everything Right Is Wrong Again,They Might Be Giants,They Might Be Giants,140276
 Everywhere,Tango In The Night,Fleetwood Mac,221234
@@ -567,7 +576,7 @@ Ex-Girlfriend,Return Of Saturn,No Doubt,212399
 Excuse Me Mr.,The Singles 1992-2003,No Doubt,184422
 Exhausted,Foo Fighters,Foo Fighters,343746
 Exhuming McCarthy,Document,R.E.M.,201613
-Expecting,White Blood Cells [Bonus DVD],The White Stripes,122720
+Expecting,White Blood Cells,The White Stripes,122720
 Exquisite Corpse,Hedwig And The Angry Inch,Various Artists,174824
 Eyes Without A Face,Rebel Yell,Billy Idol,298318
 Eyes Without A Face,Rebel Yell,Billy Idol,299000
@@ -595,7 +604,7 @@ Feel Good Inc.,Demon Days,Gorillaz,222639
 Feeling This is Like to Fall Awake,Wiser,Halou,286416
 Feels Just Like It Should,High Times: Singles 1992-2006,Jamiroquai,273081
 Fell On Black Days,Superunknown,Soundgarden,283034
-Fell in Love With a Girl,White Blood Cells [Bonus DVD],The White Stripes,109616
+Fell in Love With a Girl,White Blood Cells,The White Stripes,109616
 Fiddle Riddle,Teenager Of The Year,Frank Black,210910
 Fields Of Joy,Mama Said,Lenny Kravitz,236444
 Fight Like A Brave,The Uplift Mofo Party Plan,Red Hot Chili Peppers,233376
@@ -631,7 +640,6 @@ Follow Your Bliss,Cosmic Thing,The B-52&#39;s,249000
 Food &amp; Creative Love,When I Woke,Rusted Root,252993
 For All The Cows,Foo Fighters,Foo Fighters,209239
 Fortress Around Your Heart,The Dream Of The Blue Turtles,Sting,279000
-Foxey Lady,Are You Experienced,The Jimi Hendrix Experience,198000
 Franco,The Rhythmatist,Stewart Copeland,130286
 Frankly Mr Shankly,The Queen Is Dead,The Smiths,138813
 Freak Like Me,The Id,Macy Gray,217989
@@ -642,7 +650,6 @@ Free Nelson Mandela,The Singles Collection,Specials,273156
 Free Your Mind,Beyond Good &amp; Evil,Christophe Heral,80184
 Freedom Rock,Teenager Of The Year,Frank Black,257382
 Frenzy,Songs In The Key Of X,Screamin&#39; Jay Hawkins,130234
-Fresh In My Mind,Mellowdramatic,A Forest Mighty Black,358000
 Fresh Tendrils,Superunknown,Soundgarden,256519
 Friday I&#39;m In Love,Wish,The Cure,214000
 Friday,"Beatz &amp; Pieces, Vol. 1",Gramatik,202000
@@ -671,12 +678,13 @@ Gabriel (MJ Cole Mix),What Sound,Lamb,421564
 Gabriel (Nellee Hooper Mix),What Sound,Lamb,242502
 Gabriel,What Sound,Lamb,259428
 Gadje Sirba,The Way the Wind Blows,A Hawk and a Hacksaw,147000
+Galapogos,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,286328
 Gamma Ray,Modern Guilt,Beck,176000
 Gangsters,The Singles Collection,Specials,168038
 Garden Of Earthly Delights,Oranges &amp; Lemons,XTC,301678
 Geek U.S.A.,Siamese Dream,Smashing Pumpkins,313286
 Generals and Majors,Upsy Daisy Assortment,XTC,221962
-Generique,Jazz Impressions Of Black Orpheus (Limited Edition),Vince Guaraldi Trio,285000
+Generique,Jazz Impressions Of Black Orpheus,Vince Guaraldi Trio,285000
 Gerbil,Short Bus,Filter,200720
 Get A Move On!,Keep It Unreal,Mr. Scruff,205000
 Get Around To It,Out Of The Woods,Tracey Thorn,360000
@@ -691,6 +699,7 @@ Ghostwriter,Deadringer: Deluxe,RJD2,317000
 Giant Steps,Giant Steps,John Coltrane Quartet,283452
 Gigantic,Surfer Rosa,Pixies,235728
 Gimme All Your Lovin&#39; or I Will Kill You,The Id,Macy Gray,285620
+Gimme All Your Lovin,Eliminator,ZZ Top,241084
 Gimme Chocolate!!,BabyMetal,Babymetal,230000
 Gimme The Car,Violent Femmes,Violent Femmes,304044
 Gin And Tonic And Red Red Roses,Katamari Fortissimo Damacy,Namco,270348
@@ -753,6 +762,7 @@ Had a Dad,Nothing&#39;s Shocking,Jane&#39;s Addiction,225253
 Hag,Last Splash,The Breeders,175006
 Half Moon,Pearl,Janis Joplin,233820
 Half,Superunknown,Soundgarden,134607
+Halo,Melophobia,Cage The Elephant,177000
 Hand of Doom,Paranoid,Black Sabbath,427596
 Hands Off...She&#39;s Mine,I Just Can&#39;t Stop It,The English Beat,179616
 Hands,Broken Boy Soldiers,The Raconteurs,241000
@@ -829,6 +839,7 @@ Hey,Doolittle,Pixies,211459
 Hideous Towns,"Reading, Writing &amp; Arithmetic",The Sundays,225000
 Hideous Towns,"Reading, Writing &amp; Arithmetic",The Sundays,225722
 High Noon,G-Stoned,Kruder &amp; Dorfmeister,384540
+High Plains Drifter,Paul&#39;s Boutique,Beastie Boys,251888
 High Roller,Grim Fandango,Peter McConnell,102778
 High Roller,Vegas,The Crystal Method,329740
 High Times,High Times: Singles 1992-2006,Jamiroquai,249127
@@ -851,8 +862,7 @@ Home Now,Return Of Saturn,No Doubt,274805
 Home Sweet Home,Beyond Good &amp; Evil,Christophe Heral,170690
 Honey Bee,Wildflowers,Tom Petty,297284
 Honey,Suzuki,Tosca,355446
-Honeythief,Wholeness &amp; Separation,Halou,188604
-Hotel Yorba,White Blood Cells [Bonus DVD],The White Stripes,129766
+Hotel Yorba,White Blood Cells,The White Stripes,129766
 House In The Woods,Wildflowers,Tom Petty,330590
 How Can I Refuse,Passionworks,Heart,232934
 How Many More Times,Led Zeppelin,Led Zeppelin,507768
@@ -865,6 +875,7 @@ Humankind,My Favourite Letters,Alice Russell,281000
 Humans From Earth,Until the End of the World,T-Bone Burnett,186836
 Hummer,Siamese Dream,Smashing Pumpkins,416208
 Hungry For You (J&#39;aurais Toujours Faim De Toi),Ghost In The Machine,The Police,172902
+Hungry Like The Wolf,Rio,Duran Duran,220628
 Hyena,Life&#39;s Rich Pageant,R.E.M.,171520
 Hyllian Suite,Beyond Good &amp; Evil,Christophe Heral,275938
 Hypnotize,Elephant,The White Stripes,108004
@@ -874,7 +885,6 @@ I Ain&#39;t Goin&#39; Out Like That,Black Sunday,Cypress Hill,267000
 I Am A Man Of Constant Sorrow,"O Brother, Where Art Thou?",The Soggy Bottom Boys,189176
 I Am Superman,Life&#39;s Rich Pageant,R.E.M.,172643
 I Am The Walrus,Magical Mystery Tour,The Beatles,275834
-I Am Warm,Wholeness &amp; Separation,Halou,251030
 I Believe,Life&#39;s Rich Pageant,R.E.M.,230138
 I Bet You Look Good On The Dancefloor,"Whatever People Say I Am, That&#39;s What I&#39;m Not",Arctic Monkeys,174928
 I Bleed,Doolittle,Pixies,154102
@@ -903,7 +913,7 @@ I Stand Corrected,Vampire Weekend,Vampire Weekend,159094
 I Started Something I Couldn&#39;t Finish,"Strangeways, Here We Come",The Smiths,227550
 I Still Do,"Everybody Else Is Doing It, So Why Can&#39;t We?",The Cranberries,196125
 I Still Haven&#39;t Found What I&#39;m Looking For,The Joshua Tree,U2,277496
-I Think I Smell a Rat,White Blood Cells [Bonus DVD],The White Stripes,123994
+I Think I Smell a Rat,White Blood Cells,The White Stripes,123994
 I Think I&#39;m Paranoid,Version 2.0,Garbage,218122
 I Turn My Camera On,Gimme Fiction (Deluxe Edition),Spoon,212000
 I Wanna Be Sedated,Loud Fast,The Ramones,149472
@@ -925,7 +935,6 @@ I&#39;ll Stick Around,Foo Fighters,Foo Fighters,232540
 I&#39;m A Believer,Smash Mouth,Smash Mouth,183404
 I&#39;m A Lady (feat. Trouble Andrew),Santigold,Santigold,223000
 I&#39;m Afraid Of Americans,Earthling,David Bowie,298922
-I&#39;m All Right,Half The Perfect World,Madeleine Peyroux,206000
 I&#39;m All Right,Half The Perfect World,Madeleine Peyroux,206025
 "I&#39;m Good, I&#39;m Gone",Youth Novels,Lykke Li,189000
 I&#39;m In Love With My Life,For Life,PHASES,211000
@@ -949,7 +958,7 @@ If You Never Say Goodbye,Songs In The Key Of X,P.M. Dawn,245284
 If You Want Me To Stay,Freaky Styley,Red Hot Chili Peppers,246272
 Immigrant Song,Led Zeppelin III,Led Zeppelin,144456
 Impacilla Carpisung,We Started Nothing,The Ting Tings,219452
-In 3&#39;s (2009 Digital Remaster),Check Your Head (Deluxe Version),Beastie Boys,143000
+In 3&#39;s (Remastered 2009),Check Your Head (Deluxe Version),Beastie Boys,143000
 In 3&#39;s,Check Your Head,Beastie Boys,142584
 In Between Days,Staring At The Sea: The Singles,The Cure,175916
 In Bloom,Nevermind,Nirvana,254561
@@ -958,6 +967,7 @@ In Her Hair,Hey Judy,Cowpokes,134966
 In Hot Pursuit,Beyond Good &amp; Evil,Christophe Heral,76492
 In My Room,Upstairs At Eric&#39;s,Yaz,234000
 In My Room,Upstairs At Eric&#39;s,Yaz,234107
+In The Arms Of Sleep,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,252551
 In The Beginning,Beyond Good &amp; Evil,Christophe Heral,146484
 In The Garage,Weezer,Weezer,234754
 In The Hall Of The Mountain King,Creepy Classics,Various Artists,164034
@@ -979,7 +989,6 @@ Intermittently,Maybe You Should Drive,Barenaked Ladies,185546
 Interstate &#39;76 Theme,Interstate &#39;76 Soundtrack,Bullmark,59696
 Intimate Secretary,Broken Boy Soldiers,The Raconteurs,209118
 Into Everything,Angel Milk,Telepopmusik,263666
-Introduction,Run Lola Run,"Tykwer, Klimek &amp; Heil",342888
 Invaders Must Die,Invaders Must Die,The Prodigy,295000
 Invincible,Oh No,Ok Go,209742
 Invisible Man,Last Splash,The Breeders,167570
@@ -994,6 +1003,7 @@ Island In The Sun,Weezer (Green Album),Weezer,200000
 It Ain&#39;t Over &#39;Til It&#39;s Over,Mama Said,Lenny Kravitz,242651
 It Could Be Sweet,Dummy,Portishead,259968
 It Coulda Been Me,Social Distortion,Social Distortion,232017
+It Must Be Love,The Heavy Heavy Hits,Madness,204563
 It Takes Time,Until the End of the World,"Fred &quot;Sonic&quot; Smith, Patti Smith",298688
 It&#39;s A Disaster,Oh No,Ok Go,199446
 It&#39;s Alright For You,Regatta De Blanc,The Police,192024
@@ -1020,6 +1030,7 @@ Jane,Maybe You Should Drive,Barenaked Ladies,244033
 Janine,Ruby Vroom,Soul Coughing,298420
 Jazz Potato,Mrs Cruff,Mr. Scruff,365000
 Jazzy Bach,The Triplets of Belleville,Ben Charest,79794
+Jellybelly,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,180570
 Jerk It Out (New Brauer Mix),Paper Tigers,Caesars,194000
 Jerry Was A Race Car Driver,Sailing The Seas Of Cheese,Primus,190008
 Jesus Christ Pose,Badmotorfinger,Soundgarden,350925
@@ -1032,7 +1043,6 @@ John The Fisherman,Frizzle Fry,Primus,216892
 John Tomes,Suzuki,Tosca,304532
 John the Fisherman,Suck On This,Primus,233506
 John&#39;s Abbey,Time Waits,Bud Powell,338988
-Johnson&#39;s Aeroplane,The Swing,INXS,234104
 Joining A Fan Club,Too Cool For School Mixtape For Kids,Puffy Ami Yumi,238000
 Joker &amp; the Thief,Wolfmother,Wolfmother,280000
 Journey Inwards,Journey Inwards,LTJ Bukem,314000
@@ -1065,6 +1075,7 @@ Kate,Whatever and Ever Amen,Ben Folds Five,193000
 Kathy&#39;s Waltz,Time Out,Dave Brubeck Quartet,289380
 Keep Coming Back,Shooting Rubberbands at the Stars,Edie Brickell &amp; New Bohemians,166294
 Keep Hope Alive,Vegas,The Crystal Method,372685
+Keep Your Head,We Started Nothing,The Ting Tings,202000
 Keep Your Head,We Started Nothing,The Ting Tings,202342
 Kemba,The Rhythmatist,Stewart Copeland,351572
 Kiara,Black Sands,Bonobo,229294
@@ -1120,6 +1131,7 @@ Le Toi Du Moi,Quelqu&#39;un M&#39;a Dit,Carla Bruni,200906
 Le Vent Nous Portera,Des Visages des Figures,Noir Desir,287430
 Learn To Fly,There Is Nothing Left To Lose,Foo Fighters,235308
 Legal Shot,Dub 56,The Toasters,196066
+Legs,Eliminator,ZZ Top,273920
 Let It Be Me,Social Distortion,Social Distortion,255266
 Let Me Drown,Superunknown,Soundgarden,232566
 Let My Love Open The Door,Empty Glass,Pete Townshend,164000
@@ -1137,7 +1149,7 @@ Liberte,The Rhythmatist,Stewart Copeland,243854
 Life Begins at the Hop,Upsy Daisy Assortment,XTC,226278
 Light My Fire,The Doors,The Doors,426374
 Light Pattern,Dial &#39;M&#39; for Monkey,Bonobo,312000
-Lighten Up (2009 Digital Remaster),Check Your Head (Deluxe Version),Beastie Boys,161000
+Lighten Up (Remastered 2009),Check Your Head (Deluxe Version),Beastie Boys,161000
 Lighten Up,Check Your Head,Beastie Boys,160784
 Lights Go Down,Crazy Itch Radio,Basement Jaxx,313000
 Lights Out,Santigold,Santigold,192000
@@ -1169,6 +1181,7 @@ Looking For Satellites,Earthling,David Bowie,320911
 Looking for Satellites,Earthling,David Bowie,320000
 Looser Now,The Understanding,Röyksopp,362648
 Loser,Mellow Gold,Beck,235000
+Loser,Mellow Gold,Beck,235023
 Lost In A Crowd,When I Woke,Rusted Root,241708
 Lost In the Supermarket,London Calling,Clash,229060
 Lost Souls&#39; Alliance,Grim Fandango,Peter McConnell,133198
@@ -1182,6 +1195,7 @@ Love Like We Do,Shooting Rubberbands at the Stars,Edie Brickell &amp; New Bohemi
 Love Theme,Until the End of the World,Graeme Revell,44928
 Love Trilogy,The Uplift Mofo Party Plan,Red Hot Chili Peppers,160628
 Love You Madly,Comfort Eagle,Cake,236756
+Love,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,260338
 Lovefool,First Band On The Moon,Cardigans,198635
 Lovely Day Inside,Sunshine Today,Mo&#39; Horizons,350000
 Lovergirl,Greatest Hits,Teena Marie,290000
@@ -1215,6 +1229,7 @@ Mambuloo,... And The New Bohemian Freedom,Mo&#39; Horizons,292000
 Mammago&#39;s Garage,Beyond Good &amp; Evil,Christophe Heral,156546
 Man In A Suitcase (Live),Message In A Box,The Police,137508
 Man In A Suitcase,Zenyatta Mondatta,The Police,138814
+Man Of Steel,Songs In The Key Of X,Frank Black,298324
 Man,Please Clap Your Hands,The Bird And The Bee,183000
 Mandinka,Lion and the Cobra,Sinéad O&#39;Connor,227000
 Maneater (Remastered),The Very Best Of Daryl Hall &amp; John Oates,Hall &amp; Oates,271000
@@ -1231,6 +1246,7 @@ Marlboro Man,Dub 56,The Toasters,169364
 Marmalade,Time Waits,Bud Powell,271908
 Marry Me,Return Of Saturn,No Doubt,277209
 Martyr,When I Woke,Rusted Root,266812
+Masoko Tanga,Outlandos D&#39;Amour,The Police,342279
 Master Blaster (Jammin&#39;),Original Musiquarium,Stevie Wonder,307641
 Matadora,Soft Animals,Sofi Tukker,241000
 Material Girl ,Like A Virgin,Madonna,239512
@@ -1316,6 +1332,8 @@ Muck,Green Mind,Dinosaur Jr,254696
 Munaye,Ethiopiques 4,Mulatu Astatqé,301938
 Murder By Numbers,Synchronicity,The Police,275574
 Music Takes Me Up (feat. Alice Russell),Ninja Tuna,Mr Scruff,328000
+Mutherfuker,Mellow Gold,Beck,124514
+Muzzle,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,223106
 My Best Friend&#39;s Girl,The Cars,The Cars,223000
 My Best Friend&#39;s Hot,Because I&#39;m Awesome,The Dollyrots,190000
 My Fair Lady,The WIRED CD,David Byrne,211042
@@ -1337,13 +1355,12 @@ My Wave,Superunknown,Soundgarden,312630
 Mysterons,Dummy,Portishead,306204
 Mystery Van,Hey Judy,Cowpokes,137098
 Mystify,Kick,INXS,196000
-Mystify,Kick,Inxs,196742
 Naima,Giant Steps,John Coltrane Quartet,258269
 Naive,Inside In / Inside Out,The Kooks,203000
 Naive,Naïve,The Kooks,203000
 Naked Eye,Fever In Fever Out,Luscious Jackson,279448
 Naked and Famous,The Presidents of The United States of America,The Presidents Of The United States Of America,224729
-Namaste (2009 Digital Remaster),Check Your Head (Deluxe Version),Beastie Boys,241000
+Namaste (Remastered 2009),Check Your Head (Deluxe Version),Beastie Boys,241000
 Namaste,Check Your Head,Beastie Boys,241136
 Name Of The Game,Tweekend,The Crystal Method,255109
 Nancy (With The Laughing Face),Ballads,John Coltrane Quartet,193905
@@ -1353,7 +1370,7 @@ Natural One (feat. Folk Implosion),Kids Original Motion Picture Soundtrack,Folk 
 Nausea,The Information,Beck,173921
 Navy Bean,The Burdens Of Being Upright,Tracy Bonham,167000
 Nearly Lost You,Singles,Screaming Trees,247116
-Need You Tonight,Kick,Inxs,181662
+Never Get Old,Lion and the Cobra,Sinéad O&#39;Connor,273000
 Never Get Outta The Car,Interstate &#39;76 Soundtrack,Bullmark,210262
 Never Had No One Ever,The Queen Is Dead,The Smiths,218381
 Never Recover,First Band On The Moon,Cardigans,200697
@@ -1368,7 +1385,7 @@ New Moon On Monday,Seven and the Ragged Tiger,Duran Duran,256285
 New One,Re-Foc,Rodrigo Y Gabriela,368134
 New Soul,Yael Naïm,Yael Naïm,225000
 New Way Home,The Colour And The Shape,Foo Fighters,340215
-New Year&#39;s Day (Remastered 2008),War,U2,335000
+New Year&#39;s Day,War,U2,335618
 New Year,Last Splash,The Breeders,115544
 New Years,Citrus,Asobi Seksu,181000
 New,Return Of Saturn,No Doubt,266969
@@ -1402,6 +1419,7 @@ Nobody Really Cares If You Don&#39;t Go to the Party,"Sometimes I Sit and Think,
 Nobody&#39;s Fault But Mine,Led Zeppelin [Box Set] Disc 4,Led Zeppelin,376290
 Noche De Toxinas,Kinky,Kinky,256676
 Noctuary,Dial &#39;M&#39; for Monkey,Bonobo,322000
+Noise in this World,I Just Can&#39;t Stop It,The English Beat,136018
 None Of Dem,Body Talk,Robyn,311000
 Nookie,Significant Other,Limp Bizkit,289564
 Not Afraid,Atlas,Kinky,188318
@@ -1424,7 +1442,7 @@ Numero Deux,Numero Deux,The Dining Rooms,276000
 Nâo Posso Demorar feat. Katia B,Bossa Nova Is Not A Crime,The Juju Orchestra,388000
 O Dia Em Que Faremos Contato,Lenine,Lenine,283060
 O My God,Synchronicity,The Police,241176
-O Nosso Amor,Jazz Impressions Of Black Orpheus (Limited Edition),Vince Guaraldi Trio,295000
+O Nosso Amor,Jazz Impressions Of Black Orpheus,Vince Guaraldi Trio,295000
 Oblivion,The Id,Macy Gray,167678
 Ocean Beat,Suzuki,Tosca,272611
 Ocean Size,Nothing&#39;s Shocking,Jane&#39;s Addiction,259683
@@ -1434,6 +1452,7 @@ Office Talk,Kollected Works,Klark Kent,647530
 Oh My Golly!,Surfer Rosa,Pixies,155166
 Oh! You Pretty Things (2015 Remaster),Hunky Dory (2015 Remastered Version),David Bowie,194000
 Ohio&#39;s Rhythm,Chewing Lessons de España,Barefoot Gravediggers,185822
+Olé Mulholland,Teenager Of The Year,Frank Black,280410
 Omegaman,Ghost In The Machine,The Police,167835
 Omen,Invaders Must Die,The Prodigy,216000
 Omid (Hope),The Richest Man In Babylon,Thievery Corporation,228282
@@ -1475,6 +1494,7 @@ Outskirts Of Novigrad,Witcher 3 OST,Percival &amp; Marcin Przybyłowicz,364173
 Over My Head,Fleetwood Mac,Fleetwood Mac,213694
 Over The Hills And Far Away,Houses Of The Holy,Led Zeppelin,290949
 Over The Line,Tweekend,The Crystal Method,412464
+Overblast!!,DDR Max Soundtrack,L.E.D. Light,69602
 Overblown,Singles,Mudhoney,182052
 Owner Of A Lonely Heart,90125,Yes,267332
 Oxford Comma,Vampire Weekend,Vampire Weekend,194896
@@ -1543,7 +1563,6 @@ Power Of Love,World Clique,Deee-Lite,280540
 Prelude,Black Sands,Bonobo,77974
 Presidente (Remastered),Atlas (Remastered),Kinky,202000
 Presidente,Atlas,Kinky,202734
-Pretty In Pink,Greatest Hits,The Psychedelic Furs,238783
 Pretty Pink Ribbon,Comfort Eagle,Cake,187616
 Primary,Staring At The Sea: The Singles,The Cure,214812
 Printemps,Cœur de pirate,Coeur de pirate,124000
@@ -1588,6 +1607,7 @@ Rain Bird,Earth Sun Moon,Love And Rockets,196508
 Rain Dogs,Rain Dogs,Tom Waits,176800
 Rain,When I Woke,Rusted Root,223188
 Ramble On,Led Zeppelin [Box Set] Disc 1,Led Zeppelin,274022
+Ranking Full Stop,I Just Can&#39;t Stop It,The English Beat,167338
 Raphael,Quelqu&#39;un m&#39;a dit,Carla Bruni,147000
 Rara,Rara,Juana Molina,186680
 Raspberry Beret (LP Version) [Explicit],Around The World In A Day [Explicit],Prince,211146
@@ -1623,6 +1643,7 @@ Revolution Solution,The Cosmic Game,Thievery Corporation,221516
 Rhiannon,Fleetwood Mac,Fleetwood Mac,251316
 Rhythm Section Want Ad,They Might Be Giants,They Might Be Giants,141000
 Rhythm Section Want Ad,They Might Be Giants,They Might Be Giants,141477
+Rhythm and Police,DDR Max Soundtrack,CJ Crew,87360
 Rich Girl (Remastered),The Very Best Of Daryl Hall &amp; John Oates,Hall &amp; Oates,144000
 Ricky&#39;s Theme (Remastered 2009),Ill Communication (Deluxe Version) [Remastered],Beastie Boys,223000
 Ricky&#39;s Theme,Ill Communication,Beastie Boys,223399
@@ -1657,8 +1678,10 @@ Rolling,El Oso,Soul Coughing,216344
 Root Down,Ill Communication,Beastie Boys,212000
 Root Down,Ill Communication,Beastie Boys,212114
 Rose Rouge,Tourist,St. Germain,418626
+Rough Rider,I Just Can&#39;t Stop It,The English Beat,292568
 Roundabout (2008 Remaster),Fragile,Yes,515000
 Roundabout,Fragile,Yes,513630
+Roxanne,Outlandos D&#39;Amour,The Police,194768
 Rub &#39;Till It Bleeds,Rid Of Me,PJ Harvey,303000
 Rubacava,Grim Fandango,Peter McConnell,67262
 Rubble,Simpatico,Velocity Girl,279240
@@ -1669,8 +1692,6 @@ Rude Boys Outta Jail,The Singles Collection,Specials,160446
 Rudie Can&#39;t Fail,London Calling,Clash,210912
 Runaway,High Times: Singles 1992-2006,Jamiroquai,225628
 Runnin&#39; (Extended),Marc Mac presents Visioneers - Dirty Old Hip Hop,Visioneers,246000
-Running One,Run Lola Run,"Tykwer, Klimek &amp; Heil",330720
-Running Two,Run Lola Run,"Tykwer, Klimek &amp; Heil",252486
 Rush,The Globe,Big Audio Dynamite II,257000
 Rusty Cage,Badmotorfinger,Soundgarden,265924
 S.O.S.,Last Splash,The Breeders,91286
@@ -1685,7 +1706,7 @@ Saints,Last Splash,The Breeders,151952
 Salta-Lenin-El-Atlas (Remastered),Atlas (Remastered),Kinky,224000
 Salta-Lenin-El-Atlas,Atlas,Kinky,224807
 Salute Your Solution,Salute Your Solution,The Raconteurs,179000
-Samba De Orpheus,Jazz Impressions Of Black Orpheus (Limited Edition),Vince Guaraldi Trio,339000
+Samba De Orpheus,Jazz Impressions Of Black Orpheus,Vince Guaraldi Trio,339000
 Samba Tranquille,The Mirror Conspiracy,Thievery Corporation,186512
 Samburu Sunset,The Rhythmatist,Stewart Copeland,375700
 San Antonio,Kinky,Kinky,210132
@@ -1696,6 +1717,7 @@ Sara Smile (Remastered),The Very Best Of Daryl Hall &amp; John Oates,Hall &amp; 
 Sara,Tusk,Fleetwood Mac,380900
 Satellite,Under The Table And Dreaming,Dave Matthews Band,290316
 Satisfy My Soul,Legend,Bob Marley,271044
+Save It for Later,Special Beat Service,The English Beat,213941
 Save Me,Finally Woken,Jem,213000
 Saved by Zero,Reach the Beach,The Fixx,220844
 Sax And Violins,Until the End of the World,Talking Heads,317044
@@ -1716,7 +1738,6 @@ Season Cycle,Skylarking,XTC,200538
 Seasons,Singles,Chris Cornell,346190
 Second Song,Nine Types Of Light,TV On The Radio,260000
 Seconds (Remastered 2008),War,U2,191000
-Seconds,War,U2,191319
 Secret Journey,Ghost In The Machine,The Police,213705
 See You,The Colour And The Shape,Foo Fighters,146676
 Seether,American Thighs,Veruca Salt,196000
@@ -1750,7 +1771,6 @@ Sharp Dressed Man,Eliminator,ZZ Top,258036
 She Blinded Me With Science,The Golden Age Of Wireless,Thomas Dolby,221416
 She Bop,She&#39;s So Unusual,Cyndi Lauper,227812
 She Drives Me Crazy,The Raw And The Cooked,Fine Young Cannibals,215638
-She Moves On,The Rhythm Of The Saints,Paul Simon,303514
 She&#39;s A Knockout,Social Distortion,Social Distortion,232200
 She&#39;s An Angel,They Might Be Giants,They Might Be Giants,157412
 She&#39;s My Pusher,Vegas,The Crystal Method,340002
@@ -1844,6 +1864,7 @@ Sour Times,Dummy,Portishead,254012
 South Side Of The Sky,Fragile,Yes,475904
 South Side of the Sky (2008 Remaster),Fragile,Yes,478000
 Space (I Believe In),Trompe Le Monde,Pixies,257452
+Space Is Gonna Do Me Good,Teenager Of The Year,Frank Black,142064
 Space Oddity,David Bowie,David Bowie,315744
 Spaceboy (Remastered),Siamese Dream (Deluxe Edition),Smashing Pumpkins,267000
 Spaceboy,Siamese Dream,Smashing Pumpkins,267311
@@ -1864,19 +1885,19 @@ Spiral,Giant Steps,John Coltrane,362000
 Spirits In The Material World,Ghost In The Machine,The Police,179067
 Spitfire,"Always Outnumbered, Never Outgunned",The Prodigy,307000
 Spooky,"Music From The Motion Picture Lock, Stock And Two Smoking Barrels",Dusty Springfield,155000
-Spoonman,Superunknown (Deluxe Edition),Soundgarden,246000
 Spoonman,Superunknown,Soundgarden,246933
 St. Louise Is Listening,El Oso,Soul Coughing,269058
 Stairway To Heaven,Rodrigo y Gabriela,Rodrigo Y Gabriela,284209
 Stairway to Heaven,Rodrigo y Gabriela,Rodrigo Y Gabriela,284000
 Stand On Your Own Head,Lincoln,They Might Be Giants,76251
-Stand Together (2009 Digital Remaster),Check Your Head (Deluxe Version),Beastie Boys,167000
+Stand Together (Remastered 2009),Check Your Head (Deluxe Version),Beastie Boys,167000
 Stand Together,Check Your Head,Beastie Boys,166686
 Standing in the Shower... Thinking,Nothing&#39;s Shocking,Jane&#39;s Addiction,185182
 Star 69,Halfway Between The Gutter And The Stars,Fatboy Slim,343000
 Staring Problem,Return Of Saturn,No Doubt,163707
 State Of Grace,The Chillout Lounge - Box Set,Chilled By Nature,326919
 State Of Love And Trust,Singles,Pearl Jam,223815
+Stay Away,Nevermind,Nirvana,211459
 Stay Home,Shrek Soundtrack,Self,207246
 Stay The Same,Black Sands,Bonobo (feat. Andreya Triana),283530
 Steady As She Goes,Broken Boy Soldiers,The Raconteurs,215325
@@ -1891,7 +1912,6 @@ Stir It Up,Legend,Bob Marley,330785
 Stockholm Syndrome,Absolution,Muse,297000
 Stomp To My Beat,DDR Max Soundtrack,JSI6,84396
 Stone Cold Bush,Mother&#39;s Milk,Red Hot Chili Peppers,185406
-Stonefruit,Wholeness &amp; Separation,Halou,200954
 Stop Draggin&#39; Around,Mama Said,Lenny Kravitz,158574
 Stop Running Away,Angel Milk,Telepopmusik,160576
 Stop!,Ritual De Lo Habitual,Jane&#39;s Addiction,254874
@@ -1937,10 +1957,9 @@ Sunday Morning,The Singles 1992-2003,No Doubt,271279
 Super Bad,The 50th Anniversary Collection,James Brown,171522
 Super Bon Bon,Irresistible Bliss,Soul Coughing,211067
 Super Disco Breakin&#39;,Hello Nasty,Beastie Boys,127346
+Superabound,Teenager Of The Year,Frank Black,189904
 Superfly,Superfly,Curtis Mayfield,233000
 Superfreak,Street Songs,Rick James,207723
-Supermarket (Super Clemek Remix),Run Lola Run,Clemek Feat. Cle,326508
-Supermarket,Run Lola Run,"Tykwer, Klimek &amp; Heil",279188
 Supermassive Black Hole,Black Holes And Revelations,Muse,212000
 Supernova,Whip-Smart,Liz Phair,168000
 Superunknown,Superunknown,Soundgarden,306936
@@ -1977,6 +1996,7 @@ Take A Chance On Me,The Album,ABBA,243955
 Take Another,Short Bus,Filter,261794
 Take California,Decksandrumsandrockandroll,Propellerheads,439686
 Take Five,Time Out,Dave Brubeck Quartet,324636
+Take It Or Leave It,Is This It,The Strokes,196000
 Take It Or Leave It,Is This It,The Strokes,196073
 Take It To The Morning Light,DDR Max Soundtrack,Golden Gate,91780
 Take Me Out,Franz Ferdinand,Franz Ferdinand,236002
@@ -2007,6 +2027,7 @@ Temptation Waits,Version 2.0,Garbage,276610
 Tenderness,All The Rage,General Public,218000
 Tennis Court,Pure Heroine,Lorde,198000
 Territorial Pissings,Nevermind,Nirvana,142966
+Thalassocracy,Teenager Of The Year,Frank Black,93334
 Thank Heaven 4 You,Wikked Lil&#39; Grrrls,Esthero,270738
 Thank You Boys,Nothing&#39;s Shocking,Jane&#39;s Addiction,64402
 Thank You,No Angel,Dido,217833
@@ -2025,6 +2046,7 @@ The Beauty Of Gray,Mental Jewelry,Live,252915
 The Bed&#39;s Too Big Without You (Mono),Message In A Box,The Police,209920
 The Bed&#39;s Too Big Without You,Regatta De Blanc,The Police,265114
 The Best Of What&#39;s Around,Under The Table And Dreaming,Dave Matthews Band,255710
+The Best Things,Title Of Record,Filter,266000
 The Big Bad Wolf,The Glorious Dead,The Heavy,200000
 The Blue Nun,Check Your Head,Beastie Boys,32058
 The Brothers Cup,Freaky Styley,Red Hot Chili Peppers,206856
@@ -2060,6 +2082,7 @@ The Heart&#39;s a Lonely Hunter,The Cosmic Game,Thievery Corporation,243850
 The Hong Kong Triad,The Mirror Conspiracy,Thievery Corporation,181836
 The Hop (feat. Bajka),Berlin Serengeti,Radio Citizen,214000
 The Horse,The Best Of Booker T. &amp; the MG,Booker T. &amp; the MGs,165594
+The Hostess With The Mostest,Teenager Of The Year,Frank Black,116376
 The Joker,Palookaville,Fatboy Slim,321000
 The Joker,The Joker,Steve Miller Band,264000
 The Keeper,Black Sands,Bonobo (feat. Andreya Triana),288964
@@ -2088,7 +2111,6 @@ The Power Of Equality,Blood Sugar Sex Magik,Red Hot Chili Peppers,242450
 The Prawn Song,Superorganism,Superorganism,195000
 The Queen Is Dead (Take Me Back To Dear Old Blighty),The Queen Is Dead,The Smiths,387157
 The Rain Song,Houses Of The Holy,Led Zeppelin,459098
-The Ratio Of Freckles To Stars,Wholeness &amp; Separation,Halou,321438
 The Real Thing,The Real Thing,Faith No More,491400
 The Reflex,Seven And The Ragged Tiger,Duran Duran,266000
 The Reflex,Seven and the Ragged Tiger,Duran Duran,267439
@@ -2165,6 +2187,7 @@ Time Waits,Time Waits,Bud Powell,308620
 Tired Of &quot;Me&quot;,Mental Jewelry,Live,205242
 Tired,19,Adele,258870
 To Be Free,Love In The Time Of Science,Emiliana Torrini,206470
+To Forgive,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,255606
 To Lay Me Down,Deadicated,Cowboy Junkies,316888
 Tobago Strut,Step It Up,The Bamboos,265000
 Today,Siamese Dream,Smashing Pumpkins,201195
@@ -2172,6 +2195,7 @@ Tom &amp; Mary,Naked Baby Photos,Ben Folds Five,155324
 Tom Sawyer,Moving Pictures,Rush,273312
 Tomorrow,Life,Cardigans,183118
 Tonight She Comes,Greatest Hits,The Cars,232206
+"Tonight, Tonight",Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,254641
 Tony&#39;s Theme,Surfer Rosa,Pixies,114000
 Tony&#39;s Theme,Surfer Rosa,Pixies,114963
 Too Kool to Kalypso,Kollected Works,Klark Kent,147654
@@ -2216,17 +2240,18 @@ Truth Hits Everybody,Outlandos D&#39;Amour,The Police,174966
 "Try Me On, I&#39;m Very You",World Clique,Deee-Lite,317382
 Trying Your Luck,Is This It,The Strokes,202760
 Tttictictac,Speed Emotions,Marbert Rocel,306000
-Tubefed,Wholeness &amp; Separation,Halou,190502
 Tulip Waltz,Interstate &#39;76 Soundtrack,Bullmark,214708
 Tuna Fish,Love In The Time Of Science,Emiliana Torrini,193043
 Tunisia,Dub 56,The Toasters,154934
 Turning Japanese,Turning Japanese - Best Of The Vapors,The Vapors,225000
 Twentieth Century Fox,The Doors,The Doors,153218
 Twiggy Twiggy/Twiggy vs. James Bond,Made In USA,Pizzicato Five,242658
+Twist &amp; Crawl,I Just Can&#39;t Stop It,The English Beat,154565
 Two Hearts Beat As One,War,U2,243041
 Two Princes,Pocket Full Of Kryptonite,Spin Doctors,256000
+Two Reelers,Teenager Of The Year,Frank Black,182124
 Two Reelers,Teenager of the Year,Frank Black,182000
-Two Swords,I Just Can&#39;t Stop It (Remastered),The English Beat,138000
+Two Swords,I Just Can&#39;t Stop It,The English Beat,138813
 Two Weeks,Veckatimest,Grizzly Bear,243000
 Typical Situation,Under The Table And Dreaming,Dave Matthews Band,357526
 U Don&#39;t Know Me,The Singles,Basement Jaxx,215000
@@ -2234,6 +2259,7 @@ U Got The Look,Sign &#39;O&#39; The Times,Prince,227000
 U-Mass,Trompe Le Monde,Pixies,180870
 Ugly,Fishbone,Fishbone,171000
 "Uh, Zoom Zip",Ruby Vroom,Soul Coughing,236902
+Ultra Violet (Light My Way),Achtung Baby,U2,330524
 Una Música Brutal,La Revancha del Tango,Gotan Project,251661
 Unbelievable,Schubert Dip,EMF,209000
 Under Pressure,Hot Space,Queen (with David Bowie),236782
@@ -2318,12 +2344,15 @@ We Have A Map Of The Piano,Finally We Are No One,Múm,319762
 We Have Heaven (2003 Remaster),Fragile (Deluxe Version),Yes,99000
 We Have Heaven,Fragile,Yes,99346
 We Lie,Lighthouse EP,Wishes and Thieves,245830
+We Only Come Out At Night,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,245263
 We R In Need Of A Musical ReVoLuTion,Wikked Lil&#39; Grrrls,Esthero,244972
+We Started Nothing,We Started Nothing,The Ting Tings,382000
 We Started Nothing,We Started Nothing,The Ting Tings,382141
 We Used To Be Friends,Welcome To The Monkey House,The Dandy Warhols,199000
+We Walk,We Started Nothing,The Ting Tings,244000
 We Walk,We Started Nothing,The Ting Tings,244660
 We Will Rock You,News Of The World,Queen,122095
-We&#39;re Going to Be Friends,White Blood Cells [Bonus DVD],The White Stripes,141596
+We&#39;re Going to Be Friends,White Blood Cells,The White Stripes,141596
 Weapon Of Choice,Halfway Between The Gutter And The Stars,Fatboy Slim,344344
 Wednesday&#39;s Child,Love In The Time Of Science,Emiliana Torrini,234028
 "Welcome Back [Theme from Welcome Back, Kotter]",Welcome Back,John Sebastian,170000
@@ -2334,6 +2363,7 @@ West Of The Fields (1983 / Live In Toronto),Murmur (Deluxe Edition),R.E.M.,18600
 West Of The Fields,Murmur,R.E.M.,201611
 Western Eyes,Portishead,Portishead,239331
 Wharf Rat,Deadicated,Midnight Oil,364234
+What Comes Around,Paul&#39;s Boutique,Beastie Boys,187742
 What Else Is There ?,The Understanding,Röyksopp,317176
 What Goes Around Comes Around,Mama Said,Lenny Kravitz,288730
 What I Like About You,The Romantics,Romantics,175280
@@ -2343,7 +2373,6 @@ What Planet Is This,Cowboy Bebop Tank! The! Best!,Seatbelts,163878
 What Sound,What Sound,Lamb,223106
 What The .... Are We Saying?,Mama Said,Lenny Kravitz,312390
 What Would You Say,Under The Table And Dreaming,Dave Matthews Band,221442
-What You Need,Listen Like Thieves,Inxs,212810
 What You Think About...,Tourist,St. Germain,287794
 What&#39;s New,Ballads,John Coltrane Quartet,226200
 What&#39;s the Deal,Supreme Beings Of Leisure,Supreme Beings Of Leisure,228000
@@ -2359,10 +2388,12 @@ When It Started,Is This It,The Strokes,175201
 When The World Is Running Down,Zenyatta Mondatta,The Police,215748
 When You Gonna Learn,High Times: Singles 1992-2006,Jamiroquai,228177
 When the Lights Go Out,Burning Bridges,Naked Eyes,183000
+Where Boys Fear To Tread,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,261560
 Where Is My Mind?,Surfer Rosa,Pixies,236980
 Where The Streets Have No Name,The Joshua Tree,U2,336610
 Where Your Eyes Don&#39;t Go,Lincoln,They Might Be Giants,186174
 Where’s Your Head At,Rooty,Basement Jaxx,285000
+White Girl,Irresistible Bliss,Soul Coughing,157908
 White Knuckles,Of the Blue Colour of the Sky,Ok Go,197678
 White Like That,Short Bus,Filter,256100
 White Noise Maker,Teenager Of The Year,Frank Black,162162
@@ -2371,7 +2402,6 @@ White Wedding,Billy Idol,Billy Idol,251290
 Who Is It?,Talking Heads: 77,Talking Heads,104070
 Who&#39;d Have Known,"It&#39;s Not Me, It&#39;s You",Lily Allen,230000
 Whole Lotta Love,Led Zeppelin [Box Set] Disc 1,Led Zeppelin,334178
-Wholeness,Wholeness &amp; Separation,Halou,239148
 Whoose Loadin&#39;?,Slap Me Five,Five Fingers of Funk,234364
 Whores,Jane&#39;s Addiction,Jane&#39;s Addiction,244686
 Why Did We Fire the Gun?,Ballroom Stories,Waldeck,333000
@@ -2389,7 +2419,6 @@ Wildflowers,Wildflowers,Tom Petty,190326
 "William, It Was Really Nothing",Louder Than Bombs,The Smiths,131603
 Wind Up,The Colour And The Shape,Foo Fighters,150672
 Winning Style,Decksandrumsandrockandroll,Propellerheads,356616
-Wish (Komm Zu Mir),Run Lola Run,Franka Potente &amp; Thomas D,247936
 With Or Without You,The Joshua Tree,U2,295520
 With You,Flying Away ,Smoke City,289640
 Won&#39;t Get Fooled Again,Thirty Years Of Maximum R&amp;B,The Who,508950
@@ -2446,6 +2475,7 @@ Your Time Has Come,Out Of Exile,Audioslave,255449
 Your Time Is Gonna Come (2014 Remaster),Led Zeppelin,Led Zeppelin,274000
 Your Time Is Gonna Come,Led Zeppelin,Led Zeppelin,274701
 Youth Culture Killed My Dog,They Might Be Giants,They Might Be Giants,171466
+Zero,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,160182
 Ziggy Stardust,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,David Bowie,193593
 Zither Magic,Hey Judy,Cowpokes,90506
 again,again,YUI,256360
